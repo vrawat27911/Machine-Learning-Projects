@@ -1,0 +1,3 @@
+Weight matrix in linear regression
+
+Mail Kiminari Akiyama
