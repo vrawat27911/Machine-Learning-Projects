@@ -1,4 +1,1 @@
-Weight matrix in linear regression
-
-Mail Kiminari Akiyama
-Nj
+Dont do anything
